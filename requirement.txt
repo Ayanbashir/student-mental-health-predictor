@@ -1,0 +1,20 @@
+
+## 🛠️ Installation
+
+To run this project locally, follow the steps below:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Ayanbashir/student-mental-health-predictor.git
+cd student-mental-health-predictor
+
+
+
+2. Install the required packages
+Make sure you have Python installed, then run: 'pip install -r requirements.txt'
+
+3. Run the Streamlit App
+streamlit run A.py
+
+
