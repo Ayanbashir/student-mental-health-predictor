@@ -1,18 +1,14 @@
-# 🧠 Student Mental Health Predictor
+🧠 Student Mental Health Predictor
 
-A machine learning web application that predicts whether a student may be at risk of mental illness based on their survey responses. The app is built using **Logistic Regression** and offers a user-friendly interface powered by **Streamlit**.
+A machine learning web application that predicts whether a student may be at risk of mental illness based on their survey responses. The app is built using Logistic Regression and offers a user-friendly interface powered by Streamlit.
 
----
-
-## 📌 Project Overview
+ 📌 Project Overview
 
 Mental health plays a crucial role in students' academic success and overall well-being. T
 his project aims to provide a supportive and informative tool to raise awareness and encourage early attention to mental health challenges. 
 With just a few inputs, the app provides a prediction indicating whether a student may be at risk.
 
----
-
-## 🚀 Features
+🚀 Features
 
 - Simple and intuitive Streamlit web interface
 - Predictive model trained using real survey data
@@ -20,9 +16,7 @@ With just a few inputs, the app provides a prediction indicating whether a stude
 - Responsive layout with clear results
 - Lightweight and easy to run locally
 
----
-
-## 🧠 Technologies Used
+🧠 Technologies Used
 
 - Python
 - Pandas
